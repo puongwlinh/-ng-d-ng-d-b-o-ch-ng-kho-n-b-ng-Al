@@ -1,1 +1,1 @@
-# -ng-d-ng-d-b-o-ch-ng-kho-n-b-ng-Al
+#Ứng dụng dự báo chứng khoán bằng Al
